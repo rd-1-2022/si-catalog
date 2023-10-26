@@ -1,0 +1,8 @@
+---
+project-repositories:
+- name: "si-hello-world"
+  description: "Spring Integration - Hello, World"
+  url: "https://github.com/spring-projects/spring-integration-samples/tree/main/basic/helloworld"
+  tags:
+  - "java-17"
+  - "integration"
